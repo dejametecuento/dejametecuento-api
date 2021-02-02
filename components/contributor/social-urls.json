@@ -8,20 +8,16 @@
   "options": {},
   "attributes": {
     "twitter": {
-      "type": "string",
-      "regex": "^((?!twitter).)*$"
+      "type": "string"
     },
     "instagram": {
-      "type": "string",
-      "regex": "^((?!instagram).)*$"
+      "type": "string"
     },
     "facebook": {
-      "type": "string",
-      "regex": "^((?!facebook).)*$"
+      "type": "string"
     },
     "linkedin": {
-      "type": "string",
-      "regex": "^((?!linkedin).)*$"
+      "type": "string"
     }
   }
 }

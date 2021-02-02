@@ -9,25 +9,20 @@
   "attributes": {
     "twitter": {
       "type": "string",
-      "regex": "^((?!twitter).)*$",
       "required": false
     },
     "instagram": {
       "type": "string",
-      "regex": "^((?!instagram).)*$",
       "required": false
     },
     "facebook": {
-      "type": "string",
-      "regex": "^((?!facebook).)*$"
+      "type": "string"
     },
     "youtube": {
-      "type": "string",
-      "regex": "^((?!youtube).)*$"
+      "type": "string"
     },
     "linkedin": {
-      "type": "string",
-      "regex": "^((?!linkedin).)*$"
+      "type": "string"
     },
     "contact_email": {
       "type": "email"
